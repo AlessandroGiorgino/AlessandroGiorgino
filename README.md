@@ -1,4 +1,7 @@
-<img width="15%" src="https://avatars.githubusercontent.com/u/134380241?v=4" alt="Alessandro Giorgino">
+<div align="center">
+<img src="https://media3.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e47mlzvbz7e8i8pv0omypa9bgb4vos3h1pc7lo9nv30&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="200"  />
+</div>
+
 <h2 align="center">About me</h2>
 
 After years of experience in the Sustainability field, I decided to follow a passion that I had only cultivated as a hobby before: programming. <br>So I started it from scratch and I enrolled in a full-time Front End Development Advanced Training Course. As of today, I am looking for a reality that could help me gain experience and enter the programming working field. For my part, I would bring the competence and knowledge I acquired during the course, as well as the experience in a big company I acquired in my previous working experience.
