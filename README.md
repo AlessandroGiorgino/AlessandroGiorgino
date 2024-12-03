@@ -4,7 +4,7 @@
 
 <h2 align="center">About me</h2>
 
-After years of experience in the Sustainability field, I decided to follow a passion that I had only cultivated as a hobby before: programming. <br>So I started it from scratch and I enrolled in a full-time Front End Development Advanced Training Course. As of today, I am looking for a reality that could help me gain experience and enter the programming working field. For my part, I would bring the competence and knowledge I acquired during the course, as well as the experience in a big company I acquired in my previous working experience.
+After years of experience in the Sustainability field, I decided to follow a passion that I had only cultivated as a hobby before: programming. <br>So I started it from scratch and I enrolled in a full-time Front End Development Advanced Training Course. As of today, i work as a Front End Developer for a Onlus Organization, using my it skills to help those who are in need.
 
 <br>
 <div align="center">
@@ -13,7 +13,6 @@ After years of experience in the Sustainability field, I decided to follow a pas
 <br>
 
 - 💻 I’m currently working on expanding my knowledge of front-end development by learning React.
-- 👀 I’m currently seeking for my first job in the field. I am so excited to begin this new chapter of my life!
 - 💬 Ask me why i decided to change my career path, or whatever you want! I can tell you a lot of things about cats 🐱
 
 
