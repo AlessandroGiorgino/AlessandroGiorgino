@@ -4,7 +4,7 @@
 
 <h2 align="center">About me</h2>
 
-After years of experience in the Sustainability field, I decided to follow a passion that I had only cultivated as a hobby before: programming. <br>So I started it from scratch and I enrolled in a full-time Front End Development Advanced Training Course. As of today, i work as a Front End Developer for a Onlus Organization, using my it skills to help those who are in need.
+After years of experience in the Sustainability field, I decided to follow a passion that I had only cultivated as a hobby before: programming. <br>So I started it from scratch and I enrolled in a full-time Front End Development Advanced Course. As of today, i work as a Front End Developer for a Onlus Organization, using my it skills to help those who are in need.
 
 <br>
 <div align="center">
